@@ -1,5 +1,6 @@
-# Bigdata_Session2Assignment1
-BigData_Session2Assignment1
+# Bigdata_Session2Assignments
+BigData_Session2Assignments
 
 
-There are assignments for second day of first session. 
+There are assignments for second day assignments.
+
